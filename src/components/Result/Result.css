@@ -1,0 +1,17 @@
+.resultContainer {
+    min-height: 110px;
+}
+
+.reset {
+    margin: 10px;
+}
+
+.replay {
+    color: white;
+    background: steelblue;
+    padding: 20px;
+    font-weight: bold;
+    font-size: initial;
+    cursor: pointer;
+    border: 1px solid skyblue;
+}
